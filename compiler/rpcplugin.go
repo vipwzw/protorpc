@@ -5,7 +5,7 @@
 package main
 
 import (
-	. "goprotobuf.googlecode.com/hg/compiler/generator"
+	. "code.google.com/p/goprotobuf/compiler/generator"
 	"log"
 )
 

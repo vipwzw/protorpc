@@ -9,7 +9,7 @@ import (
 	"io"
 	"net"
 	"os"
-	"goprotobuf.googlecode.com/hg/proto"
+	"code.google.com/p/goprotobuf/proto"
 )
 
 type serverCodec struct {
